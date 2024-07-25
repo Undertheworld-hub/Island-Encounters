@@ -1,0 +1,21 @@
+{
+    "name": "island-encounters",
+    "version": "1.0.0",
+    "description": "A social game where players create and customize their own islands.",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "keywords": [],
+    "author": "Math.932 & N",
+    "license": "MIT",
+    "dependencies": {
+      "bcrypt": "^5.0.1",
+      "dotenv": "^10.0.0",
+      "express": "^4.17.1",
+      "jsonwebtoken": "^8.5.1",
+      "mongoose": "^5.12.13",
+      "ws": "^7.5.3"
+    }
+  }
+  
